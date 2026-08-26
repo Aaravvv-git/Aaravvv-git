@@ -51,7 +51,6 @@ I'm a Production & Industrial Engineering undergraduate at **BIT Mesra** (CGPA 8
 
 - **[Zomato Restaurant Analytics](https://github.com/Aaravvv-git/Restaurant-Analytics-Using-SQL-and-PowerBI)** — Ran 13+ advanced MySQL queries across 9,551 restaurants and built 5 interactive Power BI dashboards to surface pricing, rating, and delivery trends.
 - **[Coffee Sales Dashboard](https://github.com/Aaravvv-git)** — Interactive Excel dashboard analyzing 1,000+ coffee orders, using XLOOKUP/INDEX-MATCH and Pivot Tables, Charts, Timelines & Slicers for dynamic reporting.
-- **[Pizza Sales SQL Analysis](https://github.com/Aaravvv-git)** — SQL portfolio project on a four-table relational schema, spanning basic to advanced queries for sales insight.
 - **[IPL Power BI Dashboard](https://github.com/Aaravvv-git/IPL-POWER-BI-DASHBOARD)** — Multi-season IPL match and ball-by-ball data turned into an interactive performance-analysis dashboard.
 - **[Sales Forecasting & Data Analysis](https://github.com/Aaravvv-git/Sales-Forecasting-and-Data-Analysis)** — Forecasted sales trends in Excel using regression and correlation techniques.
 - **[Bike Buyers Customer Analysis Dashboard](https://github.com/Aaravvv-git)** — Pivot table–driven Excel dashboard profiling customer buying behavior with slicers and PivotCharts.
@@ -68,7 +67,7 @@ I'm a Production & Industrial Engineering undergraduate at **BIT Mesra** (CGPA 8
 **Generative AI & LLMs**
 - Generative AI Leader Learning Path — Google Cloud Skills Boost
 - AI Foundations — OpenAI
-- [Introduction to Generative AI](https://skills.yourlearning.ibm.com/activity/PLAN-BAEFCCAAD520) — IBM SkillsBuild
+- Introduction to Generative AI — IBM SkillsBuild
 - Building with Claude API — Anthropic *(in progress)*
 
 ---
