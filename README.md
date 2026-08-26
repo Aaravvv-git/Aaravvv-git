@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aarav Gupta 👋</h1>
-<h3 align="center">Production & Industrial Engineering Student @ BIT Mesra | Data Analytics & Business Intelligence</h3>
+<h3 align="center">Production & Industrial Engineering Student @ BIT Mesra | Data Analytics & BI | Building with LLMs & Generative AI </h3>
 
 <p align="center">
   🏭 Vocational Trainee @ SAIL, Bokaro Steel Plant &nbsp;|&nbsp;
-  📊 SQL · Power BI · Excel &nbsp;|&nbsp;
+  📊 SQL · Power BI · Excel · Python &nbsp;|&nbsp;
   ⚙️ Reliability Engineering & Six Sigma
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I'm a Production & Industrial Engineering undergraduate at **BIT Mesra** (CGPA 8.02/10), passionate about combining **data analytics** with **industrial process optimization**. My background blends hands-on plant experience — like studying roll maintenance and applying Six Sigma-aligned FMEA at SAIL's Bokaro Steel Plant — with a growing portfolio of SQL, Power BI, and Excel analytics projects. I'm also deeply interested in **Generative AI and LLMs**, and I'm actively building projects with them. I also serve as **Joint Secretary of SIME** (Society for Industrial Management and Engineering), where I organize supply-chain simulations and lead research on global operations strategy.
+I'm a Production & Industrial Engineering undergraduate at **BIT Mesra** (CGPA 8.04/10), passionate about combining **data analytics** with **industrial process optimization**. My background blends hands-on plant experience — like studying roll maintenance and applying Six Sigma-aligned FMEA at SAIL's Bokaro Steel Plant — with a growing portfolio of SQL, Power BI, and Excel analytics projects. I'm also deeply interested in **Generative AI and LLMs**, and I'm actively building projects with them. I also serve as **Joint Secretary of SIME** (Society for Industrial Management and Engineering), where I organize supply-chain simulations and lead research on global operations strategy.
 
 - 🔭 Currently working on data analytics & BI projects
 - 🤖 Passionate about Generative AI & LLMs — currently building **Anthropic's Building with Claude API** course into hands-on projects
